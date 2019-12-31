@@ -3,9 +3,9 @@ yes
 i have been working on this for way too fucking long, the source code is going public 31.12.2019\
 thank you to everyone that is mentioned in the explorer source code credits, but especially wipet and nikit\
 
-as #2 states, this source code is a mess that has a lot of commented out and disabled features that were originally intended but i couldn't be assed to fix, namely "polymorphism"\
+as #1 states, this source code is a mess that has a lot of commented out and disabled features that were originally intended but i couldn't be assed to fix, namely "polymorphism"\
 
-if you want to compile it, do so. just remember it will not work on default compiler settings. if you have enough skill to fix and compile this, then you have enough skill for me to trust you with it. parts of the source code are intentionally broken to fend off skids.\\
+if you want to compile it, do so. just remember it will not work on default compiler settings. if you have enough skill to fix and compile this, then you have enough skill for me to trust you with it. parts of the source code are intentionally broken to fend off skids. also **DO NOT SHARE ANY BINARIES OF THIS REPO**, this is already covered in the license so just don't. if you want to fork it for whatever reason delete your binaries before committing\
 
 **THIS REPO IS MALWARE !!! I AM NOT RESPONSIBLE FOR ANY DAMAGAE CAUSED BY IT. SEE LICENSE FOR MORE INFO**\\
 
